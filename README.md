@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [howGameWorks](#How the game works)
-* [howtoGetGame](#How to get the game)
+* [How the game works](#howGameWorks)
+* [How to get the game ](#howtoGetGame)
 
 ## howGameWorks
 
