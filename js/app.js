@@ -88,7 +88,9 @@ function end() {
   return Math.round(timeDiff);
 }
 
-start();
+
+
+
 
 
 // Refresh page
@@ -103,7 +105,11 @@ allCards.forEach(function (card) {
     card.children[0].className = "fa " + classList.pop();
     card.classList.add('open', 'show');
     setTimeout(function () {
-            card.classList.remove('open', 'show');
+        card.classList.remove('open', 'show');
+        start();
+        setInterval(function () {
+            document.querySelector('.timer').textContent = end();
+        }, 1000);
     }, 6000);
 
 

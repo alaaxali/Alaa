@@ -2,19 +2,14 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Instructions](#How the game works)
+* [Contributing](#How to get the game)
 
-## Instructions
+## How the game works
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This game consists of 8 pairs of cards and each pair have the same saymbol. When the game starts all the cards will be shuffled and you will have to memorize them so when they are flipped you need to find the matching ones till you find them all. To win with three stars you can only have one mistake, 2 to 3 mistakes will get you two stars, 4 to 5 mistakes will get you one star, and with 6 and more mistakes you won't get any star.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## How to get the game
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+1- Clone or download the repository files.
+2- Open the index file on your preferred broswer.
